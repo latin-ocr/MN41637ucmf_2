@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41637ucmf_2_0008.png"; bbox 0 0 2550 3389; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 233 582 1153 928">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 16 582 1237 993">
+     <span class='ocr_line' id='line_1_1' title="bbox 233 582 1153 928; baseline -0.016 -87.554"><span class='ocrx_word' id='word_1_1' title='bbox 233 583 781 928; x_wconf 77' lang='lat' dir='ltr'><strong>Lange,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 846 582 1153 848; x_wconf 82' lang='lat' dir='ltr'>Her</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 6 1461 1221 2260">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 6 1367 1221 2260">
+     <span class='ocr_line' id='line_1_2' title="bbox 6 1461 1190 1834; baseline 0.006 -104"><span class='ocrx_word' id='word_1_3' title='bbox 6 1830 8 1834; x_wconf 4' lang='lat' dir='ltr'>W</span> <span class='ocrx_word' id='word_1_4' title='bbox 230 1474 461 1736; x_wconf 81' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_5' title='bbox 521 1463 981 1815; x_wconf 80' lang='lat' dir='ltr'>gratia</span> <span class='ocrx_word' id='word_1_6' title='bbox 1189 1461 1190 1467; x_wconf 6' lang='grc' dir='ltr'><em>Ὗ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 239 1906 1221 2260; baseline 0.007 -84.493"><span class='ocrx_word' id='word_1_7' title='bbox 239 1906 1221 2260; x_wconf 79' lang='lat' dir='ltr'>[mieroform]</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 20 46 1280 3360">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 20 46 1280 3360">
+     <span class='ocr_line' id='line_1_4' title="bbox 20 46 1280 3360; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 20 46 1280 3360; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 221 2798 1275 3160">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 221 2798 1275 3160">
+     <span class='ocr_line' id='line_1_5' title="bbox 221 2798 1275 3160; baseline 0.018 -94"><span class='ocrx_word' id='word_1_9' title='bbox 221 2798 962 3160; x_wconf 78' lang='lat' dir='ltr'>Freiburg,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1049 2814 1275 3085; x_wconf 85' lang='grc'>19</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41637ucmf_2_0019.png"; bbox 0 0 2214 3350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 123 383 829 545">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 34 308 829 545">
+     <span class='ocr_line' id='line_1_1' title="bbox 123 383 829 545; baseline -0.006 -48.56"><span class='ocrx_word' id='word_1_1' title='bbox 123 383 829 545; x_wconf 19' lang='lat' dir='ltr'><strong>,DEGRATIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 57 589 794 774">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 57 589 794 774">
+     <span class='ocr_line' id='line_1_2' title="bbox 57 589 794 685; baseline -0.008 -19"><span class='ocrx_word' id='word_1_2' title='bbox 57 589 132 685; x_wconf 38' lang='grc' dir='ltr'><strong>’,χ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 215 619 475 664; x_wconf 72' lang='lat' dir='ltr'>TRAOTATUS</span> <span class='ocrx_word' id='word_1_4' title='bbox 497 597 794 674; x_wconf 64' lang='lat' dir='ltr'>DOGMATmUs</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 388 731 623 774; baseline -0.009 -6"><span class='ocrx_word' id='word_1_5' title='bbox 388 732 472 774; x_wconf 74' lang='lat' dir='ltr'>QUEM</span> <span class='ocrx_word' id='word_1_6' title='bbox 485 731 623 767; x_wconf 77' lang='lat' dir='ltr'>SORIPSIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 261 826 741 932">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 261 826 741 932">
+     <span class='ocr_line' id='line_1_4' title="bbox 261 826 741 932; baseline 0.002 -36"><span class='ocrx_word' id='word_1_7' title='bbox 261 826 524 901; x_wconf 14' lang='lat' dir='ltr'>‘HERMANNJU‘S&#39;</span> <span class='ocrx_word' id='word_1_8' title='bbox 535 843 669 932; x_wconf 42' lang='lat' dir='ltr'><strong>&amp;ANGE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 685 841 741 899; x_wconf 55' lang='grc' dir='ltr'><strong>Μ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 179 2744 828 2785">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 179 2744 828 2785">
+     <span class='ocr_line' id='line_1_5' title="bbox 179 2744 828 2785; baseline 0.005 -3"><span class='ocrx_word' id='word_1_10' title='bbox 179 2744 372 2783; x_wconf 75' lang='lat' dir='ltr'>FRIBURGI</span> <span class='ocrx_word' id='word_1_11' title='bbox 389 2745 628 2785; x_wconf 79' lang='lat' dir='ltr'><strong>BRISGOVIAE</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 647 2745 828 2785; x_wconf 76' lang='lat' dir='ltr'>MUMXXIX</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 232 2831 775 2953">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 232 2831 775 2953">
+     <span class='ocr_line' id='line_1_6' title="bbox 377 2831 632 2871; baseline 0.012 -3"><span class='ocrx_word' id='word_1_13' title='bbox 377 2831 531 2869; x_wconf 67' lang='lat' dir='ltr'>HERDER</span> <span class='ocrx_word' id='word_1_14' title='bbox 550 2833 567 2870; x_wconf 60' lang='grc' dir='ltr'><strong>ὣ</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 584 2831 632 2871; x_wconf 78' lang='lat'><strong>00.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 232 2913 775 2953; baseline 0.007 -4"><span class='ocrx_word' id='word_1_16' title='bbox 232 2913 426 2951; x_wconf 79' lang='lat' dir='ltr'><strong>TYPOGRAPHI</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 439 2916 594 2953; x_wconf 78' lang='lat' dir='ltr'>EDITORES</span> <span class='ocrx_word' id='word_1_18' title='bbox 606 2917 775 2953; x_wconf 80' lang='lat' dir='ltr'><strong>PONTIFIOH</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1112 3350">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1112 3350">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1112 3350; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1112 3350; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
